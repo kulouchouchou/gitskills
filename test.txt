@@ -1,2 +1,3 @@
+add this git;
 update this git;
 git is free software
